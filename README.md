@@ -13,5 +13,6 @@
 ## index.html：
   用来展示求解过程，选择上面py文件生成的json文件即可。
   
-![2D求解图：](你刚复制的图片路径)
-![图片华容道：](你刚复制的图片路径)
+![2D求解图：](https://github.com/Levigty/2D-3D-Astar/blob/master/2D.JPG)
+
+![图片华容道：](https://github.com/Levigty/2D-3D-Astar/blob/master/img.JPG)
